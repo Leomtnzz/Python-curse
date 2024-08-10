@@ -1,0 +1,1 @@
+He borrado todo lo que hay en context.txt
