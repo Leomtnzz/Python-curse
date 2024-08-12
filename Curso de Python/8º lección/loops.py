@@ -1,11 +1,11 @@
 #WHILE LOOP
 value=1
-#while value<=10:
-    #print(value)
-    #if value==5:
-        #break
-    #value+=1
-    #print(value)
+# while value<=10:
+#     print(value)
+#     if value==5:
+#         break
+#     value+=1
+#     print(value)
     
 #while value<=10:
  #   value+=1
@@ -36,8 +36,8 @@ names=['Dave','Sara','John']
   #      continue
    # print(x)
    
-#for x in range(4):
-#    print(x)
+# for x in range(2,4):
+#     print(x)
 
 #for x in range(2,4):
 #    print(x)
