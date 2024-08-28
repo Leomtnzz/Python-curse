@@ -59,7 +59,7 @@ from functools import reduce
 numbers=[1,2,3,4,5,4,3,2,1]
 
 total=reduce(lambda acc,curr:acc+curr,numbers,10)
-#El ultimo 10 es el 'starting value', y el reto se le suma a ese número. 
+#El ultimo 10 es el 'starting value', y el resto se le suma a ese número. 
 # print(total)
 
 
